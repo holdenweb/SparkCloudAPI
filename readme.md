@@ -2,7 +2,7 @@
 
 Please give [Spyrk](https://github.com/Alidron/spyrk) a try. It's an easy and nice Python Spark Core API module using [hammock](https://github.com/kadirpekel/hammock)
 
-A Pyhton module to access your Spark Core using the [Spark Cloud API](http://docs.spark.io/#/api/) /v1. 
+A Python module to access your Spark Core using the [Spark Cloud API](http://docs.spark.io/#/api/) /v1. 
 
 This modules requires the [requests](http://requests.readthedocs.org/en/latest/) package, to install just type:
 
